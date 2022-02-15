@@ -1,0 +1,36 @@
+.selectBox{
+    display: flex;
+    margin: 10px auto;
+    width: 100px;
+    height: 40px;
+    background-color: lightgrey;
+    border-radius: 5px 5px 0 0;
+    border-bottom: 2px solid black;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+    font-weight: bolder;
+    position: relative;
+}
+
+.customOption{
+    width: 100px;
+    margin: -10px auto;
+}
+
+.customOption{
+
+}
+
+.itemStyle{
+    cursor: pointer;
+}
+
+
+.itemHoverStyle{
+    background-color: #1ea7fd;
+}
+
+
+
+
