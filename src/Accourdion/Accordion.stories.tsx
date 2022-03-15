@@ -15,7 +15,7 @@ export default {
     },
 } as ComponentMeta<typeof Accordion>;
 
-let callback = action('Accordion Modified')
+let callback = action('Clock Modified')
 
 
 //👇 We create a “template” of how args map to rendering
